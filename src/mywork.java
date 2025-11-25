@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class mywork {
-    scanner scanner=new scanner(System.in);
+     scanner scanner=new scanner(System.in);
     public void Travelsal(){
         int num1 []={1,2,3,4,5};
         int num2 []=new int[5];
