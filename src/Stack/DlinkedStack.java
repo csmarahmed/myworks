@@ -30,7 +30,6 @@ public class DLinkedStack<E> implements Stack<E> {
         return dlist.removeFirst();
     }
 
-//    public void display(){
-//        dlist.display2();
-//    }
+    //public void display(){
+  // dlist.display2(); }
 }
