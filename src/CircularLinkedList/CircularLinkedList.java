@@ -75,7 +75,7 @@ public class CircularLinkedList<E> {
             System.out.print(temp.getData()+"--->");
             temp=temp.getNext();
         }while (temp!=tail.getNext());
-        System.out.println("Go first("+temp.getData()+")");
+        System.out.println("go first("+temp.getData()+")");
     }
 
 
