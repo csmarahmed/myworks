@@ -6,7 +6,7 @@ public class Main {
         list.addFirst("Tasneem");
         list.addFirst("Ahmed");
         list.addFirst("Arwa");
-        list.addLast("Huda");
+        list.addLast("Hudaa");
         list.removeFirst();
         list.removeLast();
         list.display();
