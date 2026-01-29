@@ -8,6 +8,7 @@ public class DLinkedQueue<E> implements Queue<E> {
     public boolean isEmpty() {
         return dlist.isEmpty();
     }
+    //
 
     @Override
     public int size() {

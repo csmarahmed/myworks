@@ -1,4 +1,4 @@
-ppackage Stack;
+package Stack;
 
 public interface Stack<E> {
     public boolean isEmpty();
